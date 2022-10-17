@@ -7,8 +7,13 @@
 
 Just add any working project that you have made during 
 hacktoberfest using Javascript, and make a pull request.
+Please add a screenshot of project or a deployed link so that We can test it before merging.
 
 #### How many Projects can you add?
 
 Do as Many as you can but don't add the one which are already there.
+
+### Can i add project made in Reactjs?
+
+Yes , Bit make sure to add a proper readme.md file to it and push the code to githib without the ***node_modules***
 
