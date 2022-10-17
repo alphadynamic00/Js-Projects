@@ -7,6 +7,7 @@
 
 Just add any working project that you have made during 
 hacktoberfest using Javascript, and make a pull request.
+Please add a screenshot of project or a deployed link so that We can test it before merging.
 
 #### How many Projects can you add?
 
