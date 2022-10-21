@@ -21,7 +21,7 @@ h2 {
 
 input {
     width: 100%;
-    padding: 5px 14px;
+    padding: 5px 15px;
     border: 2px solid #201f1d;
     margin-bottom: 10px;
     background-color: rgba(0,0,0,.4);
@@ -55,7 +55,7 @@ form p:nth-child(1){
     float: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
     .panel {
         width: 50%;
         margin-left: auto;
