@@ -7,7 +7,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 65.5%;
   box-sizing: border-box;
 }
 
@@ -31,14 +31,14 @@ main {
   backdrop-filter: blur(200px);
   filter: blur();
   box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.25);
-  border-radius: 9px;
+  border-radius: 10px;
   overflow: hidden;
   display: flex;
 }
 
 .player {
   flex: 50%;
-  padding: 9rem;
+  padding: 8.5rem;
   display: flex;
   flex-direction: column;
   align-items: center;
